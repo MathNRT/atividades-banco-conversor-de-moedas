@@ -1,0 +1,4 @@
+C:\Users\mathe\source\repos\ExStruct-master\ExStruct\obj\Debug\netcoreapp3.1\ExStruct.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\ExStruct-master\ExStruct\obj\Debug\netcoreapp3.1\ExStruct.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ExStruct-master\ExStruct\obj\Debug\netcoreapp3.1\ExStruct.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ExStruct-master\ExStruct\obj\Debug\netcoreapp3.1\ExStruct.csproj.CoreCompileInputs.cache
